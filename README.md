@@ -11,7 +11,7 @@ This is a weather app built using HTML, CSS, and JavaScript. It allows you to vi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/weather-app.git
+   git clone https://github.com/abin0001/Weather-app.git
    ```
 
 2. **Open the Files:**
